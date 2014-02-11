@@ -1,0 +1,100 @@
+{
+    "versionLabel": "0.8.1",
+    "uuid": "57e42595-c333-44fc-afa0-df4539c1f934",
+    "appKeys": {},
+    "longName": "XBMC Remote",
+    "versionCode": 1,
+    "capabilities": [
+        "configurable"
+    ],
+    "shortName": "XBMC Remote ",
+    "companyName": "daniel.navarro.gomez@gmail.com",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "ICON_DOWN",
+                "file": "images/arrow-down.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_UP",
+                "file": "images/arrow-up.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_VOL_UP",
+                "file": "images/volume-increase.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_VOL_DOWN",
+                "file": "images/volume-decrease.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_BACK",
+                "file": "images/undo.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_TITLE",
+                "file": "images/menu.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_INFO",
+                "file": "images/info.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_HOME",
+                "file": "images/home.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_MEDIA",
+                "file": "images/film.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_SELECT",
+                "file": "images/checkmark.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_RIGHT",
+                "file": "images/arrow-right.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_LEFT",
+                "file": "images/arrow-left.png"
+            },
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "XBMC_LOGO",
+                "file": "images/xbmc_logo.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_REV",
+                "file": "images/rev.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_PLAY_PAUSE",
+                "file": "images/playpause.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_FF",
+                "file": "images/ff.png"
+            }
+        ]
+    }
+}
